@@ -1,4 +1,4 @@
 from PIL import Image
-img = Image.open('D://bob.jpg')
+img = Image.open('e://empire.jpg')
 img.thumbnail((128,128))
 img.show()
